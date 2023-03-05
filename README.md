@@ -1,4 +1,4 @@
-### Hi \(")/
+### Hi \\(")/
 
 I'm Oxana and I'm a Frontend developer from Saint Petersburg 👩🏽‍💻
 
