@@ -2,7 +2,7 @@
 
 I'm Oxana and I'm a Frontend developer from Saint Petersburg 👩🏽‍💻
 
-
+![Описание](http(s)://cat.jpg)
 
 <!--
 **Oxana2332/Oxana2332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
