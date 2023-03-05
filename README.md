@@ -7,8 +7,6 @@ I'm Oxana and I'm a Frontend developer from Saint Petersburg 👩🏽‍💻
 I’m currently working on HTML, JavaScript, ReactJS
 
 <h2>Connect with me:</h2>
-
-<hr>
    <ul>
      <li><a href="https://t.me/SPB_oxigen">Telegram</a></li>
      <li><a href="https://www.linkedin.com/in/oxana-rozhkova/">LinkedIn</a></li>
