@@ -2,7 +2,7 @@
 
 I'm Oxana and I'm a Frontend developer from Saint Petersburg 👩🏽‍💻
 
-<img src="https://github.com/Oxana2332/Oxana2332/blob/main/cat.jpg" alt="cat developer" />
+<img src="https://github.com/Oxana2332/Oxana2332/blob/main/cat%20dev.jpg" alt="cat developer" width='200px'/>
 
 <!--
 **Oxana2332/Oxana2332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
