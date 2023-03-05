@@ -4,7 +4,7 @@ I'm Oxana and I'm a Frontend developer from Saint Petersburg 👩🏽‍💻
 
 <img src="https://github.com/Oxana2332/Oxana2332/blob/main/cat%20dev.jpg" alt="cat developer" width='400px'/>
 
-I’m currently working on HTML, JavaScript, ReactJS
+I’m currently working on HTML, JavaScript, React
 
 <h2>Connect with me:</h2>
    <ul>
