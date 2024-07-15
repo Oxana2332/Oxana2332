@@ -8,7 +8,7 @@ I’m currently working on HTML, JavaScript, React
 
 <h2>Connect with me:</h2>
    <ul>
-     <li><a href="https://t.me/SPB_oxigen">Telegram</a></li>
+     <li><a href="https://t.me/SPB_Cox">Telegram</a></li>
      <li><a href="https://www.linkedin.com/in/oxana-rozhkova/">LinkedIn</a></li>
      <li><a href="https://twitter.com/far___north">Twitter</a></li>
    </ul>
