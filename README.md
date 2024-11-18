@@ -10,7 +10,7 @@ I’m currently working on HTML, JavaScript, React
    <ul>
      <li><a href="https://t.me/SPB_Cox">Telegram</a></li>
      <li><a href="https://www.linkedin.com/in/oxana-rozhkova/">LinkedIn</a></li>
-     <li><a href="https://twitter.com/far___north">Twitter</a></li>
+     <li><a href="https://x.com/far___north">X</a></li>
    </ul>
 
 
