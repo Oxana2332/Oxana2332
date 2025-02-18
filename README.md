@@ -1,6 +1,6 @@
 ### Hi \\(")/
 
-I'm Oxana and I'm a Frontend developer from Saint Petersburg 👩🏽‍💻
+I'm Natalia and I'm a Frontend developer from Saint Petersburg 👩🏽‍💻
 
 <img src="https://github.com/Oxana2332/Oxana2332/blob/main/cat%20developer.jpg" alt="cat developer" width='400px'/>
 
